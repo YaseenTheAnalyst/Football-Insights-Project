@@ -1,4 +1,4 @@
-# Soccer Database Exploration and Analysis
+#Football Insights Project: Exploration and Analysis
 
 ## Introduction
 
