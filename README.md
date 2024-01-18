@@ -19,7 +19,7 @@ This project delves into a comprehensive soccer database containing extensive da
 
 ## Data Wrangling
 
-### Importing Data
+## Importing Data
 
 - Utilized Pandas library to read CSV files.
 
