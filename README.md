@@ -52,3 +52,5 @@ This project delves into a comprehensive soccer database containing extensive da
 
 - FC Barcelona emerged as a dominant team with the most away and home wins between 2008 and 2016.
 - Notable findings include a lack of significant correlation between buildup speed or chance creation and winning percentages, while a slight correlation exists between defense pressure and winning percentage.
+- Marco Rues is the player with the greatest increase in rating between 2008 and 2016.
+
