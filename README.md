@@ -1,6 +1,6 @@
 # Football Insights Project: Exploration and Analysis
 
-## Introduction
+# Introduction
 
 ### Dataset Overview
 
